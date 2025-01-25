@@ -1,3 +1,5 @@
 phidata
 yfinance
 groq
+duckduckgo-search
+Playground

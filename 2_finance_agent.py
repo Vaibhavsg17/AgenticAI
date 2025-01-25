@@ -18,5 +18,5 @@ agent = Agent(
 )
 
 agent.print_response(
-    "give me strong opinion on zomato stock should buy it or not"
+    "Summerize and compare analyst recommendations and fundamentals for TSLA and NVDA"
 )
